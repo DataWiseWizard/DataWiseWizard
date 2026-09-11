@@ -35,17 +35,6 @@
 
 ---
 
-### 📊 GitHub Analytics (Dark Theme)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataWiseWizard&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWiseWizard&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataWiseWizard&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DataWiseWizard&label=Profile%20views&color=0e75b6&style=flat" alt="DataWiseWizard" />
 </p>
